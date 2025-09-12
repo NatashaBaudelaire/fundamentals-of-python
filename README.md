@@ -74,10 +74,10 @@ programming-fundamentals-in-python/
 
 ## Objectives
 
-- Master essential programming principles using Python  
-- Enhance logical reasoning and problem-solving skills  
-- Apply object-oriented programming techniques effectively  
-- Build a solid foundation for advanced programming and real-world applications  
+- Master essential programming fundamentals principles using Python
+- Strengthen logical reasoning and problem-solving abilities
+- Develop proficiency in object-oriented programming principles
+- Establish a solid foundation for advanced studies and real-world software development
 
 ---
 
@@ -104,7 +104,7 @@ python filename.py
 
 > Replace `filename.py` with the actual file name.
 
-Alternatively, open the file in your preferred IDE and run it directly using the built-in tools.
+Alternatively, you can utilise the built-in run/debug tools in your preferred IDE.
 
 ---
 
@@ -115,17 +115,17 @@ Alternatively, open the file in your preferred IDE and run it directly using the
 * **Classes:** `CamelCase` (e.g., `BankAccount`)
 * **Constants:** `UPPER_CASE_SNAKE_CASE` (e.g., `PI_VALUE`)
 * Indentation: 4 spaces
-* Add docstrings and meaningful comments
+* Write meaningful comments where necessary
 * Use `black` or `flake8` for formatting and linting
 
 ---
 
 ## Repository Guidelines
 
-* Include only Python content relevant to the topics
-* Keep code clean, efficient, and well-commented
-* Follow folder and naming conventions
-* Write clear and concise commit messages
+* Include only Python-related content relevant to the topics
+* Maintain clean, efficient, and well-documented code
+* Use consistent naming conventions for files and directories
+* Write clear and descriptive commit messages
 * Never commit virtual environments, cache files, or sensitive information
 * Include instructions or sample input/output where needed
 
@@ -138,11 +138,11 @@ Alternatively, open the file in your preferred IDE and run it directly using the
 3. Make your changes
 4. Ensure the code runs and follows style conventions
 5. Commit with a meaningful message
-6. Push to your fork (`git push origin feature-name`)
+6. Push your branch to your fork (`git push origin feature-name`)
 7. Submit a pull request, linking related issues if applicable.
 
 ---
 
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue on this repository or contact directly via GitHub.
+For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
