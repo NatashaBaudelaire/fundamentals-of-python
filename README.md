@@ -142,8 +142,4 @@ Alternatively, you can utilise the built-in run/debug tools in your preferred ID
 
 ## Contact
 
-<<<<<<< HEAD:readme.md
 For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
-=======
-For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
->>>>>>> e08e2c49d7d7219f0c5a969be354d153a539c85a:README.md
