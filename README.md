@@ -1,11 +1,10 @@
-
 # Programming Fundamentals in Python
 
 This repository serves as a comprehensive repository of knowledge on programming fundamentals, developed through a combination of instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications, which are essential for foundational programming proficiency.
 
 ---
 
-## Index
+## Contents
 
 - [Covered Topics](#covered-topics)  
 - [Repository Structure](#repository-structure)  
@@ -43,11 +42,10 @@ This repository serves as a comprehensive repository of knowledge on programming
 ## Repository Structure
 
 ```
-
 programming-fundamentals-in-python/
 ├── 01-algorithms-and-logic/
 │   ├── conditionals/
-│   │   └── if\_else\_example.py
+│   │   └── if_else_example.py
 │   ├── loops/
 │   ├── mathematical-operations/
 │   ├── strings/
@@ -58,8 +56,7 @@ programming-fundamentals-in-python/
 │   ├── inheritance/
 │   ├── polymorphism/
 │   └── abstraction/
-
-````
+```
 
 ---
 
@@ -100,7 +97,7 @@ All examples are written in Python and saved as standalone `.py` files.
 1. Navigate to the appropriate folder:  
 ```bash
 python filename.py
-````
+```
 
 > Replace `filename.py` with the actual file name.
 
@@ -145,4 +142,8 @@ Alternatively, you can utilise the built-in run/debug tools in your preferred ID
 
 ## Contact
 
+<<<<<<< HEAD:readme.md
 For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
+=======
+For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
+>>>>>>> e08e2c49d7d7219f0c5a969be354d153a539c85a:README.md
