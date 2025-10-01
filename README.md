@@ -1,6 +1,6 @@
 # Fundamentals of Python
 
-This repository serves as a comprehensive repository of knowledge on programming fundamentals, developed through a combination of instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications, which are essential for foundational programming proficiency.
+This repository serves as a comprehensive collection of knowledge on Python programming fundamentals, developed through a combination of instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications, which are essential for foundational programming proficiency.
 
 ---
 
