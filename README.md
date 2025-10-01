@@ -44,7 +44,7 @@ This repository serves as a comprehensive collection of knowledge on Python prog
 programming-fundamentals-in-python/
 ├── 01-algorithms-and-logic/
 │   ├── conditionals/
-│   │   └── if_else_example.py
+│   │ 
 │   ├── loops/
 │   ├── mathematical-operations/
 │   ├── strings/
