@@ -1,4 +1,4 @@
-# Programming Fundamentals in Python
+# Fundamentals of Python
 
 This repository serves as a comprehensive repository of knowledge on programming fundamentals, developed through a combination of instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications, which are essential for foundational programming proficiency.
 
@@ -14,7 +14,6 @@ This repository serves as a comprehensive repository of knowledge on programming
 - [How to Run Examples](#how-to-run-examples)  
 - [Code Style Guide](#code-style-guide)  
 - [Repository Guidelines](#repository-guidelines)  
-- [Contribution Process](#contribution-process)  
 - [Contact](#contact) 
 
 ---
@@ -128,18 +127,6 @@ Alternatively, you can utilise the built-in run/debug tools in your preferred ID
 
 ---
 
-## Contribution Process
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes
-4. Ensure the code runs and follows style conventions
-5. Commit with a meaningful message
-6. Push your branch to your fork (`git push origin feature-name`)
-7. Submit a pull request, linking related issues if applicable.
-
----
-
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue on this repository or contact me directly via GitHub.
+For questions, suggestions, or feedback, please open an issue on the repository or contact me directly via GitHub.
